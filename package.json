@@ -6,9 +6,7 @@
   "directories": {
     "test": "tests"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/somarusomayama/playwright-sample.git"
@@ -22,6 +20,7 @@
   },
   "homepage": "https://github.com/somarusomayama/playwright-sample#readme",
   "devDependencies": {
-    "@playwright/test": "^1.57.0"
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.10.1"
   }
 }
